@@ -1,0 +1,51 @@
+{
+    "_id" : ObjectId("58c365d839cdc910c8d2b083"),
+    "temporarytoken" : "false",
+    "name" : "Elene Lee",
+    "email" : "aaa81038@gmail.com",
+    "password" : "$2a$10$2o0h0mdR3zGONS0xcP0CqOjsliVLEgkb2iP805ZlIbyjWrpCX3vie",
+    "username" : "aaa",
+    "permission" : "admin",
+    "active" : true,
+    "__v" : 0,
+    "resettoken" : "false"
+}
+
+{
+    "_id" : ObjectId("58c365d839cdc910c8d2b084"),
+    "temporarytoken" : "false",
+    "name" : "bbb bbb",
+    "email" : "bbb@gmail.com",
+    "password" : "$2a$10$2o0h0mdR3zGONS0xcP0CqOjsliVLEgkb2iP805ZlIbyjWrpCX3vie",
+    "username" : "bbb",
+    "permission" : "moderator",
+    "active" : true,
+    "__v" : 0,
+    "resettoken" : "false"
+}
+
+{
+    "_id" : ObjectId("58c365d839cdc910c8d2b085"),
+    "temporarytoken" : "false",
+    "name" : "ccc ccc",
+    "email" : "ccc@gmail.com",
+    "password" : "$2a$10$2o0h0mdR3zGONS0xcP0CqOjsliVLEgkb2iP805ZlIbyjWrpCX3vie",
+    "username" : "ccc",
+    "permission" : "user",
+    "active" : true,
+    "__v" : 0,
+    "resettoken" : "false"
+}
+
+{
+    "_id" : ObjectId("58c365d839cdc910c8d2b086"),
+    "temporarytoken" : "false",
+    "name" : "ddd ddd",
+    "email" : "ddd@gmail.com",
+    "password" : "$2a$10$2o0h0mdR3zGONS0xcP0CqOjsliVLEgkb2iP805ZlIbyjWrpCX3vie",
+    "username" : "ddd",
+    "permission" : "user",
+    "active" : true,
+    "__v" : 0,
+    "resettoken" : "false"
+}
